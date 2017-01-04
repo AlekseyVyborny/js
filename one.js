@@ -1,4 +1,4 @@
-var heading = document.querySelector('h1');
+var heading = document.querySelector('ho1');
 
 setInterval(function() {
   var hue = 'rgb(' + (Math.floor(Math.random() * 256)) +
